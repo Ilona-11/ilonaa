@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Percobaan</string>
+
+    <string-array name="daftar_ucapan">
+        <item>Selamat Ulang Tahun</item>
+        <item>Selamat Hari Ibu</item>
+        <item>Selamat Wisuda</item>
+        <item>Semoga Cepat Sembuh</item>
+    </string-array>
+</resources>
