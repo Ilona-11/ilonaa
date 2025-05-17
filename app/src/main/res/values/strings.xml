@@ -1,10 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Percobaan</string>
 
-    <string-array name="daftar_ucapan">
-        <item>Selamat Ulang Tahun</item>
-        <item>Selamat Hari Ibu</item>
-        <item>Selamat Wisuda</item>
-        <item>Semoga Cepat Sembuh</item>
-    </string-array>
+    <string name="label_email">Email / Username</string>
+    <string name="label_password">Password</string>
+    <string name="button_login">LOGIN</string>
 </resources>

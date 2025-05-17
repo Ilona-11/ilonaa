@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Percobaan" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Percobaan" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#B6B09F</item>
+        <item name="colorPrimaryVariant">#A0A090</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">#F2F2F2</item>
+    </style>
+
 </resources>
