@@ -1,4 +1,4 @@
 package com.example.percobaan
 
-class MainActivity {
+class DetailActivity {
 }
